@@ -1,0 +1,6 @@
+C:\_work\student_work\poo02\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.vcxproj.AssemblyReference.cache
+C:\_work\student_work\poo02\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.vcxproj.SuggestedBindingRedirects.cache
+C:\_work\student_work\poo02\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.exe
+C:\_work\student_work\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.vcxproj.AssemblyReference.cache
+C:\_work\student_work\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.vcxproj.SuggestedBindingRedirects.cache
+C:\_work\student_work\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.exe

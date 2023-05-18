@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Actor.cpp
+  AssemblyInfo.cpp
+  BigHouse.cpp
+  Cat.cpp
+  catHunter.cpp
+  Chelariu_Andreea_Corina.cpp
+  ClasaDeBaza.cpp
+  Game.cpp
+C:\_work\student_work\Chelariu_Andreea_Corina\Game.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Locatie.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Actor.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Chelariu_Andreea_Corina.vcxproj -> C:\_work\student_work\Chelariu_Andreea_Corina\x64\Debug\Chelariu_Andreea_Corina.exe
